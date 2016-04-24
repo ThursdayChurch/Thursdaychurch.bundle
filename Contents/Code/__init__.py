@@ -1,5 +1,5 @@
-TITLE    = 'Webisodes'
-PREFIX   = '/video/webisodes'
+TITLE    = 'Thursday Church'
+PREFIX   = '/video/thursdaychurch'
 ART      = 'art-default.jpg'
 ICON     = 'icon-default.png'
 
