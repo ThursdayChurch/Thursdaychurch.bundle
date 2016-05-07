@@ -6,7 +6,6 @@ ICON     = 'icon-default.png'
 RSS_ICON = 'rss-feed-icon.png'
 YOUTUBE_ICON = 'youtube-icon.png'
 VIMEO_ICON = 'vimeo-icon.png'
-DAILYMOTION_ICON = 'dailymotion-icon.png'
 
 SHOW_DATA = 'data.json'
 NAMESPACES = {'feedburner': 'http://rssnamespace.org/feedburner/ext/1.0'}
@@ -15,7 +14,7 @@ NAMESPACE_SMIL = {'smil': 'http://www.w3.org/2005/SMIL21/Language'}
 
 YouTube_URL = 'http://www.youtube.com'
 VIMEO_URL = 'http://vimeo.com/'
-DAILYMOTION_URL = 'http://www.dailymotion.com/'
+
 
 http = 'http:'
 
