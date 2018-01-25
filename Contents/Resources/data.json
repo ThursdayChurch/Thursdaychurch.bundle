@@ -1,3 +1,5 @@
+// Thursday Church feeds
+
 [
 {type: "rss", url: "http://thursdaychurch.org/feed/?post_type=th_sermons", thumb: ""},
 {type: "youtube", url: "http://www.youtube.com/user/thursdaychurchvin", thumb: ""},
